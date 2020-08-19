@@ -1,0 +1,42 @@
+.calculatar-layout {
+  width: 44%;
+}
+
+button {
+  width: 20%;
+  height: 20%;
+  padding: 1em;
+  font-size: 1em;
+}
+button:hover {
+  background-color: beige;
+}
+
+input {
+  width: 94%;
+  padding: 0.4em;
+}
+
+h1 {
+  text-align: center;
+  margin: 4%;
+}
+
+section {
+  border: 1px solid black;
+  margin: auto;
+}
+
+.calculatar-content {
+  padding: 0.5em;
+}
+
+.textarea {
+  height: 2em;
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+.clearButton {
+  width: 100%;
+}
